@@ -1,2 +1,2 @@
 # SeleniumAutomationCode
-Master component
+Master component test
